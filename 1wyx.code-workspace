@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../../Downloads/AdvancedGUI-Web-master/AdvancedGUI-Web-master/.devcontainer"
+		},
+		{
+			"path": "../../../Downloads/AdvancedGUI-Web-master/AdvancedGUI-Web-master/public"
+		},
+		{
+			"path": "../../../Downloads/AdvancedGUI-Web-master/AdvancedGUI-Web-master/src"
+		}
+	],
+	"settings": {}
+}
